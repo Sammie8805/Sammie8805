@@ -8,3 +8,9 @@
 Sammie8805/Sammie8805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-hello
+-compUterus
+-Washington state
+-nothing
+-email. samanthafeild195@gmail.com
+Link up...
